@@ -17,4 +17,4 @@ Desenvolvimento Full Stack: Criar aplicações web completas, da interface ao ba
 Explorar novas tecnologias: Manter-me atualizado com as mais recentes inovações no mundo da programação.
 Colaborar e aprender: Adoro compartilhar conhecimento e aprender com outros desenvolvedores.
 📊 Estatísticas do GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ramonpavani1&show_icons=true&theme=radical" alt="GitHub Stats" /> </p>
