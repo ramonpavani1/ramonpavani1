@@ -27,9 +27,9 @@ Protótipo de landing page para uma loja de games, utilizando HTML, CSS e JavaSc
 
 
 📊 Estatísticas do GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens Mais Usadas" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ramonpavani1&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramonpavani1&theme=radical" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpavani1&layout=compact&theme=radical" alt="Linguagens Mais Usadas" /> </p>
 🏆 Conquistas
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=onedark&no-frame=true&row=1&column=6" alt="Conquistas no GitHub" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ramonpavani1&theme=onedark&no-frame=true&row=1&column=6" alt="Conquistas no GitHub" /> </p>
 📫 Conecte-se comigo
 
 
