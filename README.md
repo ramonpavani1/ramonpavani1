@@ -1,9 +1,9 @@
 💻 Ramon Pavani Marcon - Desenvolvedor Full Stack
 Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor apaixonado por programação e pela construção de soluções criativas e eficazes. Adoro transformar ideias em realidade através do código, combinando tecnologias poderosas e modernas.
 
-🚀 Stacks & Tecnologias
+🚀 Stacks & Tecnologias:
 <p align="center"> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/OracleDB-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" /> </p>
-🌟 Sobre mim
+🌟 Sobre mim:
 Sou movido pela curiosidade e sempre em busca de novas formas de aprender e crescer na programação. Cada linha de código que escrevo é uma expressão da minha paixão por resolver problemas complexos e construir algo de valor.
 
 🔭 Atualmente, trabalho com tecnologias de frontend e backend, criando aplicações robustas e escaláveis.
