@@ -1,7 +1,5 @@
 💻 Ramon Pavani Marcon - Desenvolvedor Full Stack
-<p align="center">
-  <img src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" width="60%" />
-</p>
+
 Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor apaixonado por criar soluções digitais que resolvem problemas reais. Cada linha de código é uma nova oportunidade para aprender, inovar e crescer.
 
 🚀 Stacks & Tecnologias
@@ -42,6 +40,7 @@ Trabalho em Equipe e Colaboração
 ⚡ Vamos colaborar?
 Se você gosta de transformar ideias em projetos incríveis, vamos trocar experiências e criar juntos!
 
-Links úteis para configurar seu README:
-GitHub Readme Stats
-GitHub Trophies
+<p align="center">
+  <img src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" width="60%" />
+</p>
+
