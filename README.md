@@ -1,5 +1,5 @@
 💻 Ramon Pavani Marcon - Desenvolvedor Full Stack
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2YmJmNGM3MGFkZDEwOWFkNDk4NGM2Y2RlZTkwOGM3YmNkNGM4YSZlcD12MV9waW5n/gBcHpIQdyZXtewSWP5/giphy.gif" width="60%" /> </p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/tHIRLHtNwxpjIFqPdV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/justin-raccoon-pedro-tHIRLHtNwxpjIFqPdV">via GIPHY</a></p>
 Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor apaixonado por criar soluções digitais que resolvem problemas reais. Cada linha de código é uma nova oportunidade para aprender, inovar e crescer.
 
 🚀 Stacks & Tecnologias
