@@ -41,6 +41,6 @@ Trabalho em Equipe e Colaboração
 Se você gosta de transformar ideias em projetos incríveis, vamos trocar experiências e criar juntos!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" width="60%" />
+  <img src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" width="30%" />
 </p>
 
