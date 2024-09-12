@@ -4,7 +4,7 @@ Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor apaixonado por criar so
 
 🚀 Stacks & Tecnologias
 <p align="center"> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/OracleDB-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" /> </p>
-🌟 Sobre mim
+🌟
 Sou um desenvolvedor apaixonado por programação e aprendizado contínuo. Aqui estão alguns fatos sobre mim:
 
 🔭 Atualmente trabalhando em projetos full-stack com foco em Java, React, Next.js e bancos de dados Oracle.
@@ -33,7 +33,7 @@ Protótipo de landing page para uma loja de games, utilizando HTML, CSS e JavaSc
 📫 Conecte-se comigo
 
 
-💡 Apaixonado por:
+💡 
 Desenvolvimento Full Stack
 Exploração de Novas Tecnologias
 Trabalho em Equipe e Colaboração
